@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 # by jerry_zhu
 
+
 #convert name to number
 def name_to_number(name):
     if name == "rock":
