@@ -8,11 +8,11 @@ In this function, you are always sliding the values in the list towards the fron
 
 For example, if a row of the board started as follows:
 
-![Figure1](./1_merge_F1.png =200x50)
+![Figure1](./1_merge_F1.png)
 
 And you slide the tiles left, the row would become:
 
-![Figure2](./1_merge_F2.png =200x50)
+![Figure2](./1_merge_F2.png)
 
 1. Note that the two leftmost tiles merged to become a 4 and the third 2 just slides over next to the 4.
 
